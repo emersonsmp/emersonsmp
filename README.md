@@ -19,7 +19,9 @@
 <h3 align="left">Languages:</h3>
  <p align="left"> 
  	<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://github.com/emersonsmp/emersonsmp/blob/6313fe5c00f309b1560b1100bd8f0b964b637e21/assets/icone-apple.png" alt="swift" width="40" height="40"/> </a>
  	<a href="https://dotnet.microsoft.com/en-us/apps/xamarin/xamarin-forms" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original.svg" alt="xamarin" width="40" height="40"/> </a>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://github.com/emersonsmp/emersonsmp/blob/79272f64604bf5ed4ffd3a67a4fdeadadfcadd5d/assets/android.png" alt="swift" width="35" height="40"/> </a>
  	<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  
  <a href="https://python.org.br" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
  
