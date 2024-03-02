@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Empiricus Investimentos](https://apps.apple.com/br/app/empiricus-investimentos/id1438455844) & [Empiricus Trade](https://apps.apple.com/br/app/empiricus-trade/id1540443043)
 - 🌱 I’m currently learning SwiftUI 
 - 💬 Ask me about Mobile Development
-- 📫 Reach me in emersonsmp@gmail
+- 📫 Reach me in emersonsmp@gmail.com
 <!-- - 📄 Know about my experiences in my Resume -->
 
 <h3 align="left">Connect with me:</h3>
