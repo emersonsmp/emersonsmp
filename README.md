@@ -11,21 +11,13 @@
 
 <h3 align="left">Connect with me:</h3>
  <p align="left">
- <a href="https://www.linkedin.com/in/emersonsmp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/emersonsmp" target="_blank">
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 <h3 align="left">Languages:</h3>
- <p align="left"> 
- 	<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://github.com/emersonsmp/emersonsmp/blob/6313fe5c00f309b1560b1100bd8f0b964b637e21/assets/icone-apple.png" alt="swift" width="40" height="40"/> </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://github.com/emersonsmp/emersonsmp/blob/79272f64604bf5ed4ffd3a67a4fdeadadfcadd5d/assets/android.png" alt="swift" width="35" height="40"/> </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a>
- 	<a href="https://dotnet.microsoft.com/en-us/apps/xamarin/xamarin-forms" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original.svg" alt="xamarin" width="40" height="40"/> </a>
- 	<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
- 
-  ![emerson's github stats](https://github-readme-stats.vercel.app/api?username=emersonsmp&show_icons=true&theme=merko)
- <p>
- 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emersonsmp&show_icons=true&locale=en&layout=compact" alt="emersonsmp" />
- </p>
+
+<table border="0" cellspacing="0" cellpadding="8"><tr><td align="center" valign="top" width="80"><a href="https://developer.apple.com/swift/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40"/><br/>Swift</a></td><td align="center" valign="top" width="80"><a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg" width="40" height="40"/><br/>Obj-C</a></td><td align="center" valign="top" width="80"><a href="https://kotlinlang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/><br/>Kotlin</a></td><td align="center" valign="top" width="80"><a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br/>Java</a></td><td align="center" valign="top" width="80"><a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/><br/>Flutter</a></td><td align="center" valign="top" width="80"><a href="https://ionicframework.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" width="40" height="40"/><br/>Ionic</a></td><td align="center" valign="top" width="80"><a href="https://dotnet.microsoft.com/en-us/apps/maui" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/><br/>MAUI</a></td><td align="center" valign="top" width="80"><a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/><br/>C#</a></td></tr></table>
  
 
