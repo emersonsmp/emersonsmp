@@ -1,20 +1,9 @@
-<h1 style="text-align: center;">Hi! I'm Emerson Sampaio
+<h3>I am a Mobile Developer with over 8 years of experience, a significant part of which was directly tied to the financial market — delivering mobile solutions for clients at DTVM, Vitreo, Empiricus Investimentos and Empiricus Trade, all part of the BTG Pactual group. Today I work in the telecommunications sector, contributing directly to ESAQ (Entidade de Suporte à Aferição de Qualidade de Telecomunicações) through the official ANATEL app at Brasil Banda Larga, as well as delivering SDK solutions for companies and carriers across Brazil and Latin America. I am passionate about clean architecture, reusable code and quality-driven development, always keeping up with the latest trends to build innovative solutions.</h3>
 
-</h1>
-<h3>I am a developer with over 8 years of experience in software development, focusing on the quality of architecture and reusable code, always validated by quality tests. My passion for technology has led me to stay up-to-date with the latest trends, allowing me to develop innovative solutions to solve user problems.</h3>
-
-- 🔭 I’m currently working on [Empiricus Investimentos](https://apps.apple.com/br/app/empiricus-investimentos/id1438455844) & [Empiricus Trade](https://apps.apple.com/br/app/empiricus-trade/id1540443043)
-- 🌱 I’m currently learning SwiftUI 
+- 🔭 I'm currently working at [Brasil Banda Larga / ESAQ](https://www.brasilbandalarga.com.br)
+- 🤖 I'm currently studying AI, AI Agents and automation with AI
 - 💬 Ask me about Mobile Development
-- 📫 Reach me in emersonsmp@gmail.com
-<!-- - 📄 Know about my experiences in my Resume -->
-
-<h3 align="left">Connect with me:</h3>
- <p align="left">
-  <a href="https://www.linkedin.com/in/emersonsmp" target="_blank">
-   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+- 📫 Reach me at [emersonsmp@gmail.com](mailto:emersonsmp@gmail.com)
 
 <h3 align="left">Languages:</h3>
 
